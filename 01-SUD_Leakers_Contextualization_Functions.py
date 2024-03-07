@@ -1,4 +1,5 @@
 # Databricks notebook source
+
 import pyspark.sql.functions as F
 from datetime import datetime, timedelta
 
